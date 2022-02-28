@@ -1,6 +1,12 @@
-### Hi there 👋
+### Welcome to my digital abode! 👋
 
-Welcome to my developer profile! 👩🏻‍💻
+- 👩🏻‍💻 I'm a creative full-stack developer who enjoys experimenting with emerging technologies!
+- 💬 I love talking about augmented reality and other areas of extended reality, digital literacy and digital accessibility.
+- 📚 I currently teach part-time in a digital media graduate program where I inspire students to merge creativity with technological tools.
+- 🌳 I'm a part of OpenTree's Software Developer Mentorship Program where I contribute to an open-source project with an agile team.
+- ✨ In 2021, I was part of the [AWS re/Start](https://aws.amazon.com/training/restart/) program and [Oculus Launch Pad](https://developer.oculus.com/launch-pad/) program for VR enthusiasts.
+- 👀 I'm open to all kinds of opportunities whether it's learning, working or play. 
+- ✉️ Contact me by [LinkedIn](https://www.linkedin.com/in/eileenxue/) or [Twitter](https://twitter.com/thelearnaholic) if you want to discuss anything I mentioned above!
 
 <!--
 **eileenxue/eileenxue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
