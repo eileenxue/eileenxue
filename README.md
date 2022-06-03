@@ -2,9 +2,9 @@
 
 - 👩🏻‍💻 I am a creative full-stack developer who enjoys experimenting with emerging technologies!
 - 💬 I love talking about augmented reality and other areas of extended reality, digital literacy and digital accessibility.
-- 🎉 I currently work as a UX Developer at Curacity, a data analytics company connecting hotel brands with publishers and creators.
-- 📚 I also teach part-time at [Ryerson University's Digital Media Graduate Program](https://www.ryerson.ca/master-digital-media/faculty-staff/eileen-xue/) where I inspire students to merge creativity with technological tools. 
-- 🌳 I recently completed [OpenTree's Software Developer Mentorship Program](https://opentree.education/professional-mentorship-program/) where I contributed to an open-source project with an agile team. 
+- 🎉 I work as a UX Developer at [Curacity](https://www.curacity.com/), a data analytics company connecting hotel brands with publishers and creators.
+- 📚 I teach part-time at [TMU's Digital Media Graduate Program](https://www.torontomu.ca/master-digital-media/faculty-staff/eileen-xue/) inspiring students to merge creativity with technology. 
+- 🌳 I recently completed [OpenTree's Mentorship Program](https://opentree.education/professional-mentorship-program/) where I contributed to an open-source project with an agile team. 
 - ✨ In 2021, I was part of the [AWS re/Start](https://aws.amazon.com/training/restart/) program, [Oculus Launch Pad](https://developer.oculus.com/launch-pad/) program for VR enthusiasts, and ArtWorksTO for emerging artists living in Toronto.
 - 👀 I'm open to all kinds of opportunities whether it's learning, working or play. 
 - ✉️ Contact me by [LinkedIn](https://www.linkedin.com/in/eileenxue/) or [Twitter](https://twitter.com/thelearnaholic) if you want to discuss anything I mentioned above!
